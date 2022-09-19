@@ -1,6 +1,6 @@
 ### Hi there 👋 Kek here
 
-I'm still learning how to code, I focus on learning JS. I like learning new stuff.
+I'm still learning how to code, I'm focusing on learning JS. I like learning new stuff.
 
 <br>
 <p align="center">
